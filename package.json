@@ -1,0 +1,13 @@
+{
+  "name": "binary-tree-algorithm",
+  "version": "1.0.0",
+  "author": "Agata Mostowik",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "nodemon ./src/app.ts"
+  }
+}
